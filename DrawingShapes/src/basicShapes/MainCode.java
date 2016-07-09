@@ -11,6 +11,6 @@ public class MainCode {
 		Triangle tr = new Triangle(5);
 		tr.Print();
 		Square sq = new Square(10);
-		sq.Print();
+		sq.Draw();
 	}
 }
